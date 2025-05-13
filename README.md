@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Vipermdl/AI-Ocean-Models-LiuGroup)
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Vipermdl/AI-Ocean-Models-LiuGroup?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Vipermdl/AI-Ocean-Models-LiuGroup?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Vipermdl/AI-Ocean-Models-LiuGroup?style=social">
 
-# <p align=center>`Awesome AI Ocean Models`</p>
+# <p align=center>`Awesome-AI-Ocean-Models-LiuGroup`</p>
 
 :star2:**A collection of papers, datasets, benchmarks, code for AI Ocean Models in ECNU.**
 
