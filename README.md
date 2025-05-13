@@ -38,10 +38,12 @@
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
 |Title|Link|Brief Introduction|
 |---|:---:|:---:|
-|**RSFMs (Remote Sensing Foundation Models) Playground**|[link](https://github.com/synativ/RSFMs)|An open-source playground to streamline the evaluation and fine-tuning of RSFMs on various datasets.|
+|**AI for Earth**|[link](https://github.com/jaychempan/Awesome-LWMs)|A collection of articles on Large Weather Models (LWMs).|
 |**PANGAEA**|[link](https://github.com/yurujaja/pangaea-bench)|A Global and Inclusive Benchmark for Geospatial Foundation Models.|
 |**GeoFM**|[link](https://github.com/xiong-zhitong/GeoFM)|Evaluation of Foundation Models for Earth Observation.|
-|**EOUncertaintyGeneralization**|[link](https://github.com/Orion-AI-Lab/EOUncertaintyGeneralization)|On the Generalization of Representation Uncertainty in Earth Observation.|
+|**AI for Atmosphere and Ocean**|[link](https://github.com/XiongWeiTHU/Awesome-AI-for-Atmosphere-and-Ocean)|A collection of research papers on AI for Atmospheric Science and Oceanography.|
+|**Remote Sensing Foundation Models**|[link](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)|A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models.|
+
 
 ## Survey/Commentary Papers
 |Title|Publication|Paper|Attribute|
