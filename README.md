@@ -21,18 +21,18 @@
 ## AI <ins>Ocean</ins> Models
 
 |Title|Publication|Paper|Code & Weights|
-|:---:|---|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |**MLDet: Towards efficient and accurate deep learning method for Marine Litter Detection**|Ocean & Coastal Management|[Paper](https://www.sciencedirect.com/science/article/pii/S0964569123002909)|[link](https://github.com/Vipermdl/MLDet)|
 |**Semi-supervised learning advances species recognition for aquatic biodiversity monitoring**|Frontiers in Marine Science|[Paper](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1373755/full)|[link](https://github.com/Vipermdl/WFN-CEL-FishNet)|
 |**Deep learning reveals hotspots of global oceanic oxygen changes from 2003 to 2020**|International Journal of Applied Earth Observation and Geoinformation|[paper](https://www.sciencedirect.com/science/article/pii/S156984322500010X)|[link](https://github.com/Vipermdl/Oxyformer)|
-|**Foundation model facilitate sea-land segmentation using satellite image**|-|[paper](-)|[link](https://github.com/Vipermdl/foundation-model-for-SLS)|
+|**Foundation model facilitate sea-land segmentation using satellite image**| | |[link](https://github.com/Vipermdl/foundation-model-for-SLS)|
 
 ## Benckmark For Ocean
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
 |**Oxyformer**|**Global scale ocean dissolved oxygen dataset derived by Oxyformer**|International Journal of Applied Earth Observation and Geoinformation|[Oxyformer](https://www.sciencedirect.com/science/article/pii/S156984322500010X)|[link](https://zenodo.org/records/10792246)|
-|**GSLSD**|**Landsat-8 Sea-Land Segmentation Dataset**|-|[-](-)|[link](https://pan.baidu.com/share/init?surl=RYiQPiTN84KU0SVgJZsgNw&pwd=h6hr)|
+|**GSLSD**|**Landsat-8 Sea-Land Segmentation Dataset**| | |[link](https://pan.baidu.com/share/init?surl=RYiQPiTN84KU0SVgJZsgNw&pwd=h6hr)|
 
 # Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
